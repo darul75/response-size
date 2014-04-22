@@ -1,6 +1,6 @@
 {
   "name": "response-size",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware heavy response size warning.",
   "keywords": [
     "connect",    
