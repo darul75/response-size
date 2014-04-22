@@ -25,7 +25,7 @@ app.configure(function(){
   app.set('port', process.env.PORT || 3000);  
   //....
   app.use(express.json());
-  app.use(responseSize({ threshold: 5, enable: true }));
+  app.use(responseSize({ threshold: 300, enable: true }));
   //....
 });
 
