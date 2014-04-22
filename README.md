@@ -1,6 +1,6 @@
-# Response-size [![NPM version](https://badge.fury.io/js/response-size.png)](http://badge.fury.io/js/response-size) [![Build Status](https://travis-ci.org/darul75/response-size.png?branch=master)](https://travis-ci.org/darul75/response-size) [![Total views](https://sourcegraph.com/api/repos/github.com/darul75/response-size/counters/views.png)](https://sourcegraph.com/github.com/darul75/response-size)
+# Response-size [![NPM version](https://badge.fury.io/js/response-size.png)](http://badge.fury.io/js/response-size) [![Total views](https://sourcegraph.com/api/repos/github.com/darul75/response-size/counters/views.png)](https://sourcegraph.com/github.com/darul75/response-size)
 
-Intuitive http response reminder when response is bigger than your limit ( in kb ).
+Intuitive http response reminder when response is bigger than your limit ( in bytes ).
 
 It just output a console warning when the limit is reached
 
