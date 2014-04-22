@@ -1,0 +1,41 @@
+{
+  "name": "response-size",
+  "version": "0.0.1",
+  "description": "Middleware heavy response size warning.",
+  "keywords": [
+    "connect",    
+    "express",
+    "response",
+    "http",
+    "size"
+  ],
+  "author": {
+    "name": "Julien Valéry",
+    "email": "darul75@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/darul75/response-size/issues"
+  },
+  "engines": {
+    "node": ">=0.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "index.js",
+  "dependencies": {    
+    "colors": "0.6.2",
+    "express": "3.4.6",
+    "humanize": "0.0.9",
+    "tracer": "0.7.1"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/darul75/response-size.git"
+  }
+}
